@@ -1,4 +1,4 @@
-# QueryMesh (sql-planner)
+# QueryMesh
 
 QueryMesh is a federated SQL query planner that runs queries across three separate PostgreSQL databases. You write normal SQL and it figures out which DB has which tables, plans the query, and joins across databases when it has to.
 
